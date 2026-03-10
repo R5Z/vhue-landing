@@ -1,0 +1,5 @@
+{
+  "name": "감정 일기 앱 뷰 Vhue ",
+  "description": "작성한 글에서 감정을 자동으로 읽어내어 시각화해주는 프라이빗 타임라인 일기 앱 랜딩페이지",
+  "requestFramePermissions": []
+}
